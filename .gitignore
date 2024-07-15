@@ -1,0 +1,12 @@
+/.collabignore
+/.vs
+/Assembly-CSharp.csproj
+/Assets/Sprites
+/Library
+/Logs
+/obj
+/Packages
+/ProjectSettings
+/Temp
+/UserSettings
+/TopDownGame2D.sln
